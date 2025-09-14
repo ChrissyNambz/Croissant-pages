@@ -1,0 +1,26 @@
+body{
+    background: rgb(234, 234, 196);
+    text-align: center;
+}
+
+h1{text-align: center;
+    color:chocolate;}
+
+    p{
+        color: chocolate;
+        display:grid;
+    }
+
+
+img{max-width: 800px;
+    display:inline;
+    height: auto;
+   
+ }
+
+
+a{
+    text-align: center;
+     color: chocolate;
+
+    ;}
